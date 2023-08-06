@@ -534,6 +534,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 3
+  spawnArea: {x: 10, y: 10}
 --- !u!61 &727270674
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -791,7 +792,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 050c36f9820fac44b8e5f24c3051261a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ed56530d38e12e74aa95f53fe29582de, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -810,8 +811,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 892707044}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.2503488, y: 0.75429153, z: 3.31}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0.16, y: -0.14, z: 3.31}
+  m_LocalScale: {x: 1.8225986, y: 1.9772058, z: 1.2621}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
